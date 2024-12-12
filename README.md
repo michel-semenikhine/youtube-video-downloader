@@ -13,7 +13,7 @@ It lists available video and audio formats and provides an easy way to download 
 - Nothing more is needed, FFmpeg is used for video and audio conversion. This tool is bundled with the application.
 
 ## How to Use
-1. **Run the Program**: You can download the latest build of the program from the [Releases](https://github.com/michel-semenikhine//releases) section.
+1. **Run the Program**: You can download the latest build of the program from the [Releases](https://github.com/michel-semenikhine/youtube-video-downloader/releases) section.
 \
 Simply launch the program.
 

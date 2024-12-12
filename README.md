@@ -76,7 +76,7 @@ Deleting original file Rick Astley - Never Gonna Give You Up (Official Music Vid
 Downloading finished !
 ```
 
-The video will be located in the same folder where you launched to program.
+The video will be located in the same folder where you launched the program.
 
 # Note
 This youtube video downloader doesn't bypass YouTube’s restrictions such as age restrictions or private online posting. Only videos that can be viewed without a YouTube account can be downloaded.

@@ -10,7 +10,14 @@ It lists available video and audio formats and provides an easy way to download 
 - Converts the downloaded content into a compatible format using FFmpeg for easy playback.
 
 ## Requirements
-- Download and Install FFMPEG via the [official website](https://www.ffmpeg.org)
+To be able to use the program you will need to download and Install FFMPEG via the [official website](https://www.ffmpeg.org)
+- Create a folder "FFMPEG" in C:\
+- put inside ```ffmpeg.exe```, ```ffplay.exe``` and ```ffprobe.exe``` files.
+- add the folder to the Path ("C:\FFMPEG") :
+   - To do that, open System Properties (or type "Environment Variables" in windows search bar), then click "Environment Variables".
+   - Select "Path" (Above for local User, or under for all users), then click "Modify".
+   - Click "New" and paste your folder path.
+   - Save.
 
 ## How to Use
 1. **Run the Program**: You can download the latest build of the program from the [Releases](https://github.com/michel-semenikhine/youtube-video-downloader/releases) section.
@@ -80,3 +87,5 @@ The video will be located in the same folder where you launched the program.
 
 # Note
 This youtube video downloader doesn't bypass YouTube’s restrictions such as age restrictions or private online posting. Only videos that can be viewed without a YouTube account can be downloaded.
+
+I am not responsible for the misuse of this program.

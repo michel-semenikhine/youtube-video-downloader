@@ -10,7 +10,7 @@ It lists available video and audio formats and provides an easy way to download 
 - Converts the downloaded content into a compatible format using FFmpeg for easy playback.
 
 ## Requirements
-- Nothing more is needed, FFmpeg is used for video and audio conversion. This tool is bundled with the application.
+- Download and Install FFMPEG via the [official website](https://www.ffmpeg.org)
 
 ## How to Use
 1. **Run the Program**: You can download the latest build of the program from the [Releases](https://github.com/michel-semenikhine/youtube-video-downloader/releases) section.
